@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/bin/Microsoft.NodejsTools.WebRole.dll
+/node_modules
+/obj/Debug
+/EngineeringExercise.njsproj
+/package-lock.json
+/EngineeringExercise.njsproj.user
+/EngineeringExercise.sln
+/blockLists

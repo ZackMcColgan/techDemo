@@ -1,0 +1,11 @@
+{
+  "server": {
+    "ip": "127.0.0.1",
+    "port": "3000"
+  },
+
+  "blockListSaveLocation": "./test/mocks/blockLists",
+  "benchmarkSaveLocation": "./benchmarks",
+  "refreshRate": 3000,
+  "blockLists": [ "firehol_level1", "firehol_level2", "firehol_level3", "firehol_level4" ]
+}
