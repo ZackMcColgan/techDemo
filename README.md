@@ -1,4 +1,4 @@
-Auth0 Engineering Exercise 
+Engineering Exercise 
 Anomaly Detection - IP Blocking 
 
 Author: Zack McColgan
@@ -19,7 +19,7 @@ Sample Response:
         "ip": "119.92.186.19"
     }
 ]
-Status Code: 401
+Status Code: 200
 
 If the IP is not blocked:
 Status Code: 200
@@ -41,7 +41,7 @@ Results of last bench:
 
     Started: 2019-12-09 04:31:14.409
     Ended: 2019-12-09 04:31:15.057 (0.648 seconds)
-    30.91 ops/sec ± 2.81%
+    30.91 ops/sec Â± 2.81%
     0 errors
     Sample arithmetic mean: 0.032354
     Sample standard deviation: 0.001945
@@ -62,3 +62,5 @@ What the project is built with
 - Tests:
 	Mocha
 	Supertest
+
+Exclusive Copyright
